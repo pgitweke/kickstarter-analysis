@@ -16,11 +16,16 @@ In outcomes based on goals, COUNTIFS() function was utilized to filter data that
 
 ### Analysis of Outcomes Based on Launch Date
 
+![Outcomes Based on Theater Launch Date Worksheet](Theater_Outcomes_vs_LaunchDate.png)
+
+
 Outcomes based on Launch date were very successful in May but saw a sharp decline in June to around September.
 
 There was an increase in failed outcomes from the month of May to July as well as October 
 
 ### Analysis of Outcomes Based on Goals
+
+![Outcomes Based on Goals Worksheet](Outcomes_vs_Goals.png)
 
 We had a high percentage of successful outcomes in the plays category when the goals set were lower. 
 
@@ -49,3 +54,5 @@ Using current data, we would not be able to tell the variance or interquatile ra
 
 - What are some other possible tables and/or graphs that we could create?
 •	We could use a box and whisker to determine if there are any outliers and verify what the mean, median and mode would be.
+
+
