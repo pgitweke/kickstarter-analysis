@@ -16,7 +16,7 @@ In outcomes based on goals, COUNTIFS() function was utilized to filter data that
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Outcomes Based on Theater Launch Date Worksheet](Theater_Outcomes_vs_Launch Date.png)
+![Outcomes Based on Theater Launch Date Worksheet](Theater_Outcomes_vs_Launch_Date.png)
 
 
 Outcomes based on Launch date were very successful in May but saw a sharp decline in June to around September.
